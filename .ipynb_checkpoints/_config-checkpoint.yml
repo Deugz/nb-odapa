@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: O.D.A.P.A
-author: The ODAPA Organising Community
+title: "O.D.A.P.A"
+author: <strong> <a href="https://deugz.github.io/nb-master/_build/html/intro.html" target="_blank">Vincent Deguin </a></strong> (with ❤️)
 logo: Docs/master-logo-open-dialogues-open.svg
 
 # Force re-execution of notebooks on each build.
@@ -34,7 +34,10 @@ html:
   use_issues_button         : true
   use_multitoc_numbering    : false
   extra_navbar              : ""
-  extra_footer              : ""  # Will be displayed underneath the footer.
+  extra_footer: |
+  
+    <img class="CC_licence" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="Licence CC BY NC SA 2"/>
+     
 #  google_analytics_id       : 
   home_page_in_navbar       : false
   baseurl                   : "https://deugz.github.io/nb-odapa/_build/html/"
@@ -43,5 +46,13 @@ html:
     utterances              : 
       repo: "https://github.com/Deugz/nb-odapa"
   announcement              : "Registration are now open!"
+  
+sphinx:
+  config:
+    language: en
+    bibtex_reference_style: author_year
+    html_show_copyright: false
+  extra_extensions:
+  - sphinx_design
 
 
