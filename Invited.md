@@ -225,7 +225,7 @@ The Open University
 :::{grid-item}
 :columns: 6 
 
-```{image} _static/Invited_Pics/Dr_Charanjit_Kaur_Khosa.png
+```{image} _static/Invited_Pics/Dr_Annika_Lohstroh.png
 
 ```
 
