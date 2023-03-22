@@ -27,20 +27,11 @@
 
 <br>
 
-*Open Dialogues* is back! Join us for two more days of inspiring talks, posters, and cross-dicipline panel discussions. Abstract submission for PhD student talks and posters is now **open** ✨
+*Open Dialogues* is back! Join us for two more days of inspiring talks, posters, and cross-dicipline panel discussions.
 
 <br>
 
-<div class="wrapper">
-<button class="button"><span> <a href="https://forms.office.com/pages/responsepage.aspx?id=VdQuDq-WAEG-06jl_ZgWhUNooYE8S1RJkQg3G2i3JdFUN0ZITUdSMldVWkhRNVY3VFRFMUk4UVlBVC4u"  title= "" target="blank"> Submit an Abstract </a></span></button> 
-</div>
-
-<br>
-
-<p class="emphase">  <a href="https://docs.google.com/document/d/1hyoIy7h5KsVwA4Vqd1V-rtqkjGRyWIIm/edit" target= "_blank"> Download the abstract template! 🗎 </a> </p>
-
-
-<p class="emphase"><strong>Deadline</strong>: Friday, February 3rd 2023</p>
+<p class="emphase"><strong>Application deadline</strong>: Friday, February 3rd 2023</p>
 
 ```{admonition} Costs
 :class: tip
