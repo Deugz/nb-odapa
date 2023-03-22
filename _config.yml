@@ -45,7 +45,7 @@ html:
     hypothesis              : true
     utterances              : 
       repo: "https://github.com/Deugz/nb-odapa"
-  announcement              : "Registration are now open!"
+  announcement              : "Registration are close!"
   
 sphinx:
   config:

@@ -76,6 +76,14 @@ img[alt$="<"] {
   margin: 5px !important;
 }
 
+.center-text {
+margin: auto;
+display: flex;
+justify-content: center;
+text-align: center;
+
+}
+
 
 .emphase {
     font-size:1.4em;
